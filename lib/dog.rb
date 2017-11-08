@@ -19,4 +19,4 @@ class Dog
 
 end
 
-Groot = Dog.new(Groot)
+Groot = Dog.new("Groot")
