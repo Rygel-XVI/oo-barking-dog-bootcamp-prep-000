@@ -18,3 +18,5 @@ class Dog
   end
 
 end
+
+Groot = Dog.new
